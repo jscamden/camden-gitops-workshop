@@ -1,4 +1,4 @@
-# Fleet GitOps
+# Fleet GitOps - Rutgers-Camden IT - December 3, 2025
 
 This is the starter repository for using [Fleet](https://fleetdm.com) with a GitOps workflow.
 
